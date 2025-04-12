@@ -36,7 +36,7 @@ The design includes a left sidebar with categories (Home, Medicine, Health Condi
 
 ## Website's Screenshot
 
-![alt text]( https://drive.google.com/file/d/1_myQzH_-KdELvBVwLEldLD5zIyDhXlmM/view?usp=drive_link)
+![alt text](mainpage.png)
 
 ## Contributing
 
