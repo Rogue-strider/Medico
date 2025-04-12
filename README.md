@@ -34,14 +34,10 @@ The design includes a left sidebar with categories (Home, Medicine, Health Condi
 - *Real-Time Data*: Ensures reliability with the latest information.
 - *User-Friendly Interface*: Intuitive design for seamless navigation.
 
-## Webpage Visuals
+## Website's Screenshot
 
-- *Home Page*
-  ![Home Page](https://drive.google.com/file/d/1_myQzH_-KdELvBVwLEldLD5zIyDhXlmM/view?usp=drive_link)
-- *Contact Us Page*
-  ![Contact Us Page]( https://drive.google.com/file/d/1lUke02BLBceSG5ZA9IWFj_aUXEPbDcAg/view?usp=drive_link)
-- *Medicine Category*
-  ![Medicine Category]( https://drive.google.com/file/d/1I5ukOiRjBRcZkNIZFvIxY20kzg4lwLd8/view?usp=drive_link)
-- *Personal Care Category*
-  ![Personal Care Category](https://drive.google.com/file/d/1B1ACdOMuzD3gUv9KhyDNVSjNQ2xVWCno/view?usp=drive_link )
+![alt text]( https://drive.google.com/file/d/1_myQzH_-KdELvBVwLEldLD5zIyDhXlmM/view?usp=drive_link)
 
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to help improve the project.
